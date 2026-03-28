@@ -1,0 +1,8 @@
+## Ignore the .env file which contains sensitive information
+.env
+##Ignore the docs folder which contains generated documentation
+/docs
+##Ignore the dist folder which contains built files
+/dist
+##Ignore .vscode folder which contains IDE specific settings
+.vscode

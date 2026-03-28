@@ -1,0 +1,16 @@
+condition,total_visits,unique_patients,visit_share_pct,patient_share_pct
+hypertension,60505,39702,22.03,39.7
+obesity,52401,34725,19.08,34.72
+hyperlipidemia,46315,31018,16.87,31.02
+chronic_kidney_disease,24414,13991,8.89,13.99
+osteoarthritis,14216,9847,5.18,9.85
+type2_diabetes,14804,9340,5.39,9.34
+anxiety,15556,9297,5.67,9.3
+depression,9744,6741,3.55,6.74
+asthma,8650,6026,3.15,6.03
+coronary_artery_disease,9366,5954,3.41,5.95
+copd,7919,4989,2.88,4.99
+hypothyroidism,5156,3636,1.88,3.64
+heart_failure,2678,1704,0.98,1.7
+atrial_fibrillation,2074,1481,0.76,1.48
+type1_diabetes,794,460,0.29,0.46

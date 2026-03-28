@@ -1,0 +1,7 @@
+# AI Executive Summary Agent — Dependencies
+# Install with: pip install -r requirements.txt
+
+crewai==0.28.8
+langchain-groq==0.1.3
+pandas>=2.0.0
+python-dotenv>=1.0.0
