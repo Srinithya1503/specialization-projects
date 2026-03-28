@@ -2,7 +2,8 @@
 
 ## Project Purpose
 Analyze longitudinal patient records to support a biopharmaceutical product launch.
-Key metrics: Patient Adherence, Treatment Duration, and Therapeutic Area (TA) Concentration.
+
+- Key metrics: Patient Adherence, Treatment Duration, and Therapeutic Area (TA) Concentration.
 
 ## Repository Structure
 
@@ -48,7 +49,7 @@ Source: [Kaggle - Patient Records 100k Patients 15 Conditions](https://www.kaggl
 - `powerbi_exports/duration_export.csv` — Treatment duration per patient
 
 
-## 📊 Pipeline Results ( data — 274,592 records, 100K patients)
+## 📊 Pipeline Results (100K patients)
 
 **Treatment Duration:**  63K patients are Long-Term (365+ days), showing a heavily chronic population — ideal for launch targeting.
 
@@ -68,7 +69,7 @@ Source: [Kaggle - Patient Records 100k Patients 15 Conditions](https://www.kaggl
 
 ## 🎯 3 Client-Ready Strategic Insights
 
-**Insight 1 — Hypertension + Hyperlipidemia = Your Beachhead Market**
+**Insight 1 — Hypertension + Hyperlipidemia**
 Hypertension (40K patients, 22% of all visits) and Hyperlipidemia (31K patients, 16.9%) together account for nearly 40% of the total patient population. Any cardiovascular drug launch targeting comorbid Hypertension-Hyperlipidemia has an addressable population of ~25K+ overlapping patients already in treatment — the foundation for a strong launch case.
 
 **Insight 2 — Chronic Kidney Disease Is the High-Value Underserved Gap**
